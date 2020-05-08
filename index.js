@@ -1,3 +1,3 @@
-console.log(whos bad idea was the test);
-console.warn(say im here);
-console.error(halp);
+console.log("whos");
+console.warn("say");
+console.error("halp");
